@@ -1,0 +1,4 @@
+234,123,2322.0,may,46440.0,Electricity,true
+234,123,2322.0,may,34830.0,Gas,false
+234,123,2322.0,may,23220.0,Water,false
+123,123,123.0,dss,2460.0,Electricity,false
